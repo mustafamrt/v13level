@@ -1,0 +1,21 @@
+{
+  "name": "Level-BotV13",
+  "version": "3.0.0",
+  "description": "Narcos Code",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.2.3",
+    "discord.js": "^13.1.0",
+    "jimp": "^0.16.1",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
