@@ -63,5 +63,5 @@ name: "seviyem",
 description: "",
 aliases: [],
 kategori: "",
-usage: "atatürk",
+usage: "",
 }
